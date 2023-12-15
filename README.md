@@ -4,5 +4,5 @@
 
 # INTEGRACIÓN DE CLIENTES, USUARIOS Y VIAJES A BITACORA, HACIENDO UN DESPLIEGUE CON GITHUB ACTIONS
 
-##Diagrama de arquitectura
+## Diagrama de arquitectura
 ![arquitectura](arq.png)
